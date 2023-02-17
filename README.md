@@ -1,5 +1,12 @@
 # TapGuitarHero
 
-This is a game project from a course I took.
+Um jogo do estilo Guitar Hero para smartphones.
 
-Software: Unity Engine.
+## Plataforma:
+- Android
+
+## Sobre o Gameplay:
+- O jogador deve clicar no momento em que o bloco colorido chegar a marcação.
+
+## Software: 
+- Unity Engine.
